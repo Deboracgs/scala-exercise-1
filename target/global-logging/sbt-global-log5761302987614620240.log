@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(case class exercise1(number: Int) {   number match {     case (_ % 3 == 0 && _ % 5 == 0) => "Fizz"     case _ % 3 == 0 => "Buzz"     case _ % 5 == 0 => "FizzBuzz"   } }, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: case (similar: set, last, shell)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: case (similar: package, name, tags)[0m
+[0m[[0m[31merror[0m] [0m[0mcase class exercise1(number: Int) {   number match {     case (_ % 3 == 0 && _ % 5 == 0) => "Fizz"     case _ % 3 == 0 => "Buzz"     case _ % 5 == 0 => "FizzBuzz"   } }[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
