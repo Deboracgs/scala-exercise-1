@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/debora/vigil/scala-class/scala-exercise-1/src/main/scala/FizzBuzz.scala:27:20: java.time.ZonedDateTime does not have a constructor[0m
+[0m[[0m[31merror[0m] [0m[0m    val datetime = new ZonedDateTime()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
